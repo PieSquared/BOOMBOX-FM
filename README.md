@@ -21,9 +21,3 @@ KiCanvas: https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FPieSquared%2FBOO
 
 <img width="1341" height="669" alt="case2" src="https://github.com/user-attachments/assets/7b54cfbc-86bf-46ff-8d9b-29b73688f161" />
 <img width="1341" height="769" alt="case1" src="https://github.com/user-attachments/assets/de196fc1-a317-4124-a80c-305a0acef006" />
-
-
-## BOM
-
-[BOM.csv](https://github.com/user-attachments/files/32363638/BOM.csv)
-
