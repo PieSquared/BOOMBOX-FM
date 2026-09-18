@@ -1,6 +1,6 @@
 Item #,Component,Quantity,Price,
 1,Seeed Xiao RP2040,1,CAD$6.61,
-2,Custom PCB,1,USD$30.71,-With Shipping
+2,Custom PCB,1,CAD$21.44,-With Shipping (converted from USD$15.22)
 3,Custom Case,1,CAD$7,-With Shipping
 4,RDA5807 Module,1,CAD$1.41,
 5,TDA2822 Amplifier,1,CAD$0.56,
@@ -14,8 +14,8 @@ Item #,Component,Quantity,Price,
 13,30MM Speaker,2,CAD$2.51,
 14,10k Resitors,2,CAD$1.41,
 ,,,,
-,Sub total:,,CAD$84.07,
+,Sub total:,,CAD$58.32,
 ,Shipping:,,CAD$53,
-,,,CAD$137.07,
-,,,USB$98.39,
-,"NOTE: Most of the cost is SHIPPIG, but if i get the kit with the parts i need, it should be way cheaper",,,
+,,,CAD$111.32,
+,,,USD$78.98,
+,"NOTE: Most of the cost is SHIPPING, but if i get the kit with the parts i need, it should be way cheaper",,,
